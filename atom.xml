@@ -41,11 +41,11 @@
   </entry>
   
   <entry>
-    <title>MyBatis配置文件详解</title>
-    <link href="http://yoursite.com/2020/03/25/MyBatis%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/"/>
-    <id>http://yoursite.com/2020/03/25/MyBatis%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/</id>
+    <title>MyBatis-配置文件详解</title>
+    <link href="http://yoursite.com/2020/03/25/MyBatis-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/"/>
+    <id>http://yoursite.com/2020/03/25/MyBatis-%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E8%AF%A6%E8%A7%A3/</id>
     <published>2020-03-25T07:18:06.000Z</published>
-    <updated>2020-03-26T02:37:22.174Z</updated>
+    <updated>2020-03-26T02:46:17.922Z</updated>
     
     <summary type="html">
     
@@ -56,29 +56,10 @@
     </summary>
     
     
-      <category term="Test" scheme="http://yoursite.com/categories/Test/"/>
+      <category term="Java" scheme="http://yoursite.com/categories/Java/"/>
     
     
-      <category term="testing" scheme="http://yoursite.com/tags/testing/"/>
-    
-      <category term="Another tag" scheme="http://yoursite.com/tags/Another-tag/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>my-first-blog</title>
-    <link href="http://yoursite.com/2020/03/22/my-first-blog/"/>
-    <id>http://yoursite.com/2020/03/22/my-first-blog/</id>
-    <published>2020-03-22T09:10:00.000Z</published>
-    <updated>2020-03-25T07:08:02.522Z</updated>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;MyBatis-动态SQL&quot;&gt;&lt;a href=&quot;#MyBatis-动态SQL&quot; class=&quot;headerlink&quot; title=&quot;MyBatis-动态SQL&quot;&gt;&lt;/a&gt;MyBatis-动态SQL&lt;/h2&gt;&lt;p&gt;• if：判断&lt;br&gt;• choose (when, otherwise)：分支选择&lt;br&gt;• trim：截取 (where封装查询条件, set封装修改条件)&lt;br&gt;• foreach：遍历，用于批量操作&lt;/p&gt;
-    
-    </summary>
-    
-    
+      <category term="MyBatis" scheme="http://yoursite.com/tags/MyBatis/"/>
     
   </entry>
   
@@ -87,17 +68,11 @@
     <link href="http://yoursite.com/2020/03/22/hello-world/"/>
     <id>http://yoursite.com/2020/03/22/hello-world/</id>
     <published>2020-03-22T08:58:25.723Z</published>
-    <updated>2020-03-22T08:58:25.723Z</updated>
+    <updated>2020-03-26T02:45:32.014Z</updated>
     
     <summary type="html">
     
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
     
     </summary>
     
